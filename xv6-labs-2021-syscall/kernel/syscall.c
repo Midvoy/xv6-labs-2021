@@ -159,3 +159,4 @@ syscall(void)
     printf("%d: syscall %s -> %d\n",p->pid,syscall_name[num],p->trapframe->a0);
   }
 }
+

@@ -29,7 +29,6 @@ int trace(int);
 // 在此处添加info
 int sysinfo(struct sysinfo *);
 
-
 // ulib.c
 int stat(const char*, struct stat*);
 char* strcpy(char*, const char*);

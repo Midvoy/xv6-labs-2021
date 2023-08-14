@@ -24,3 +24,4 @@
 #define SYS_trace  22
 // 添加sysinfo
 #define SYS_sysinfo 23
+

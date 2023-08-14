@@ -656,6 +656,7 @@ procdump(void)
     printf("\n");
   }
 }
+
 int n_proc(void)
 {
   struct proc *p;
